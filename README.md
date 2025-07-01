@@ -1,7 +1,7 @@
 # Simple Bott 🎓
 *A Discord study companion bot built for students.*
 
-> 🚨 This repo contains the design and documentation for a Discord bot created in Spring 2025 as part of CEN4010 – Principles of Software Engineering at FAU. Source code is not included (yet), but may be added in the future.
+> This repo contains the design and documentation for a Discord bot created in Spring 2025 as part of CEN4010 – Principles of Software Engineering at FAU. Source code is not included, but will be added in the future.
 
 ## Features
 - Create and manage flashcards
